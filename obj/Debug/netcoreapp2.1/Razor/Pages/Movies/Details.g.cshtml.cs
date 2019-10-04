@@ -160,7 +160,7 @@ using MoviePages;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(1136, 60, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3750237edd544ec6b5a66a7a72b6fc4a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34ea58501d534086b17c0c3cdbce3a4b", async() => {
                 BeginContext(1188, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -195,7 +195,7 @@ using MoviePages;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(1204, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5db449e74ada4e959c711c40ce1e18e4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "97eb1a7de1054b47b2f5484c82064b38", async() => {
                 BeginContext(1226, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();

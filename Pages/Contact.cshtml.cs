@@ -8,11 +8,14 @@ namespace MoviePages.Pages
 {
     public class ContactModel : PageModel
     {
-        public string Message { get; set; }
-
+        public string Name { get; set; }
+        public string Email {get; set; }
+        public string Phone {get; set;}
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Name = "Galen Housego";
+            Email = "galen.housego@gmail.com";
+            Phone = "504 235 1973";
         }
     }
 }
